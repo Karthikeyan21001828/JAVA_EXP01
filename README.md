@@ -1,1 +1,1 @@
-# JAVA_EXP01
+# EXP-1 java program to print the Arithmetic operations
