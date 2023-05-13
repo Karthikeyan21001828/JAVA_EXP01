@@ -2,7 +2,18 @@
 
 ## AIM:
 To write java program to print the Arithmetic operations.
+
 ## PROCEDURE:
+### STEP1:
+Import the required packages.
+### STEP2:
+Get the input for arithmetic operations from the user.
+### STEP3:
+Perform arithmetic operations using the arithmetic operator.
+### STEP4:
+Display the result of the operations using print function.
+### STEP5:
+Stop the execution.
 
 ## PROGRAM:
 ```java
@@ -34,4 +45,5 @@ public class Main
 ![image](https://github.com/Karthikeyan21001828/JAVA_EXP01/assets/93427303/27d459bb-54b2-4716-b992-ab8691043310)
 
 ## RESULT:
+A java program to print the Arithmetic operations has been executed Successfully.
 
